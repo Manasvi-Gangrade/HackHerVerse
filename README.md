@@ -3,9 +3,9 @@ This project/folder has been created for HackHerVerse at Rajalakshmi Engineering
 Currently, this repository is under progress. What you see here is just the basic setup and initial code. We will be adding further details and code soon.
 This Repo consists of a folder named NeuroEase inside which all the ui , backend and functionalities modules have been integrated .
 
-Presetation (PPT) Link : https://drive.google.com/file/d/1FE_q9KtsuzcNRcaZJqbf3iyp7M1IVat5/view?usp=drive_link
-Detailed Document Link : https://drive.google.com/file/d/1NMayaW-dK9YvNXWg3jYvv4tpcMZ2mqpM/view?usp=sharing
-Video Link : https://drive.google.com/file/d/1iWmMSbwRR6lG18GuZpboIFGcWpTrwZkD/view?usp=sharing
+1. Presetation (PPT) Link : https://drive.google.com/file/d/1FE_q9KtsuzcNRcaZJqbf3iyp7M1IVat5/view?usp=drive_link
+2. Detailed Document Link : https://drive.google.com/file/d/1NMayaW-dK9YvNXWg3jYvv4tpcMZ2mqpM/view?usp=sharing
+3. Video Link : https://drive.google.com/file/d/1iWmMSbwRR6lG18GuZpboIFGcWpTrwZkD/view?usp=sharing
 
 Project Details :
 🧠 NeuroEase — Quick Summary:
