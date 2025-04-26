@@ -33,6 +33,7 @@ Business Viability:
 1. Freemium model
 2. Collaboration with ed-tech, wellness apps, smart device companies
 
+![image](https://github.com/user-attachments/assets/f44f302f-c932-463f-8943-b75a58b04f31)
 
 Stay tuned for updates!
 
