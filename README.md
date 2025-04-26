@@ -5,6 +5,11 @@ This Repo consists of a folder named NeuroEase inside which all the ui , backend
 
 Project Details :
 🧠 NeuroEase — Quick Summary:
+NeuroEase is a next-gen desktop assistant that combines
+Voice Commands + Gesture Control + Emotion Detection + Mental Health Support
+into one seamless platform.
+Designed for users facing burnout, ADHD, cognitive overload, or physical limitations, NeuroEase adapts in real-time to support your mental health and productivity — without invading your privacy.
+
 Purpose:
 Mental health + productivity assistant. Specially made for people facing burnout, ADHD, cognitive overload, or physical disabilities.
 
@@ -33,7 +38,35 @@ Business Viability:
 1. Freemium model
 2. Collaboration with ed-tech, wellness apps, smart device companies
 
-![image](https://github.com/user-attachments/assets/f44f302f-c932-463f-8943-b75a58b04f31)
+![image](https://github.com/user-attachments/assets/15f7638b-ef90-4ece-a51a-9e84fb2bbd0c)
+![image](https://github.com/user-attachments/assets/8ac6e5fc-57f1-491d-bfa6-0a72933d3bbe)
+![image](https://github.com/user-attachments/assets/dee9714e-8608-4609-9feb-05805229a2ac)
+
+⚙️ How to Run
+1. Clone the Repo
+git clone https://github.com/yourusername/NeuroEase.git
+cd NeuroEase
+
+3. Set Up Python Environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+5. Install Python Requirements
+pip install -r requirements.txt
+
+7. Set Environment Variables
+Create a .env file:
+DB_PATH=neuroease.db
+MQTT_BROKER=localhost
+
+9. Start Backend Server
+cd backend
+python server.py
+
+11. Start Electron Frontend
+Open a separate terminal:
+npm install
+npm start
 
 Stay tuned for updates!
 
